@@ -1,4 +1,4 @@
-The LC-3b Project is an alternative to C.O.Ject and is divided into 7 LABS:
+The LC-3b Project is an alternative to C.O.Project and is divided into 7 LABS:
 Lab0: C Warm-Up & Preview
 Lab1: Write an assembler for the LC-3b Assembly Language
 Lab2: Write an instruction-level simulator
