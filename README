@@ -1,0 +1,8 @@
+The LC-3b Project is an alternative to C.O.Ject and is divided into 7 LABS:
+Lab0: C Warm-Up & Preview
+Lab1: Write an assembler for the LC-3b Assembly Language
+Lab2: Write an instruction-level simulator
+Lab3: Write an cycle-level simulator
+Lab4: Write an cycle-level simulator supporting interrupts and exceptions
+Lab5: Write an cycle-level simulator supporting virtual memory
+Lab6: Write an 5-stage pipelined simulator
